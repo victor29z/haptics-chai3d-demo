@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="myDev">
+</Property><Property Name="Solution File" Value="F:\6dof\from shuangjun\myDev4\myDev.sln">
+</Property><Property Name="User Options File" Value="F:\6dof\from shuangjun\myDev4\myDev.suo">
+</Property><Property Name="Date" Value="2014年8月18日">
+</Property><Property Name="Time" Value="14:44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="myDev.sln" Description="File successfully backed up as F:\6dof\from shuangjun\myDev4\myDev.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="myDev.suo" Description="File successfully backed up as F:\6dof\from shuangjun\myDev4\myDev.suo.old">
+</Event><Event ErrorLevel="0" Project="myDev" Source="myDev\myDev.vcproj" Description="Converting project file 'F:\6dof\from shuangjun\myDev4\myDev\myDev.vcproj'.">
+</Event><Event ErrorLevel="1" Project="myDev" Source="myDev\myDev.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="myDev" Source="myDev\myDev.vcproj" Description="Done converting to new project file 'F:\6dof\from shuangjun\myDev4\myDev\myDev.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="myDev" Source="myDev\myDev.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="myOring" Source="myOring\myOring.vcproj" Description="Converting project file 'F:\6dof\from shuangjun\myDev4\myOring\myOring.vcproj'.">
+</Event><Event ErrorLevel="1" Project="myOring" Source="myOring\myOring.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="myOring" Source="myOring\myOring.vcproj" Description="Done converting to new project file 'F:\6dof\from shuangjun\myDev4\myOring\myOring.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="myOring" Source="myOring\myOring.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="shapes" Source="shapes\shapes.vcproj" Description="Converting project file 'F:\6dof\from shuangjun\myDev4\shapes\shapes.vcproj'.">
+</Event><Event ErrorLevel="1" Project="shapes" Source="shapes\shapes.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="shapes" Source="shapes\shapes.vcproj" Description="Done converting to new project file 'F:\6dof\from shuangjun\myDev4\shapes\shapes.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="shapes" Source="shapes\shapes.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="textures" Source="textures\textures.vcproj" Description="Converting project file 'F:\6dof\from shuangjun\myDev4\textures\textures.vcproj'.">
+</Event><Event ErrorLevel="1" Project="textures" Source="textures\textures.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="textures" Source="textures\textures.vcproj" Description="Done converting to new project file 'F:\6dof\from shuangjun\myDev4\textures\textures.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="textures" Source="textures\textures.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="paint" Source="paint\paint.vcproj" Description="Converting project file 'F:\6dof\from shuangjun\myDev4\paint\paint.vcproj'.">
+</Event><Event ErrorLevel="1" Project="paint" Source="paint\paint.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="paint" Source="paint\paint.vcproj" Description="Done converting to new project file 'F:\6dof\from shuangjun\myDev4\paint\paint.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="paint" Source="paint\paint.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="myDev.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="myDev.sln" Description="Converted">
+</Event></UpgradeLog>
